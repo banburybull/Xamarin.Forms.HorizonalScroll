@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</Source>
+    <SmallTileSource>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</SmallTileSource>
+    <MediumTileSource>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</MediumTileSource>
+    <WideTileSource>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</WideTileSource>
+    <LargeTileSource>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</LargeTileSource>
+    <AppIconSource>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</AppIconSource>
+    <SplashScreenSource>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</SplashScreenSource>
+    <PackageLogoSource>C:\Development\Repo Items\Template Application\Template\Template.UWP\Assets\Images\Common\logo_512.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
